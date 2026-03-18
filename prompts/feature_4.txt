@@ -1,0 +1,14 @@
+Update Mathematics Section:
+
+Do NOT create a new section.
+
+Edit existing content to include:
+
+- State representation (h, v)
+- Equation of motion (Newton’s second law)
+- Drag model
+- Variable mass model
+- Thrust model
+- Numerical integration (ODE45)
+
+Keep formatting clean and minimal.

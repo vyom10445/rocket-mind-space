@@ -1,0 +1,11 @@
+Update Simulation Section:
+
+- Replace dummy data with:
+  Max altitude: 111 m
+  Max velocity: 37.8 m/s
+  Burn time: 3 s
+
+- Keep layout unchanged
+- Update graph labels to:
+  Altitude vs Time
+  Velocity vs Time

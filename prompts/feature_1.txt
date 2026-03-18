@@ -1,0 +1,6 @@
+Update Hero Section:
+
+- Change "Project Ascent" → "Project Astra"
+- Update description to:
+
+"A student-led rocket engineering project by IEEE MUJ, combining propulsion, aerodynamics, and simulation for real-world rocket development."

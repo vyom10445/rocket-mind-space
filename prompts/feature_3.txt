@@ -1,0 +1,21 @@
+Update Team Section:
+
+- Remove all dummy names
+- Replace with a clean placeholder structure
+
+Add sections:
+
+Core Team:
+-Yogesh
+-Vyom
+-Shaurya
+-Vedant 
+-Ipshita
+-Divjot
+
+(Optional placeholder text):
+"More members to be added"
+
+- Do NOT assign specific roles yet
+- Keep layout same
+- Keep icons (GitHub/LinkedIn) as placeholders or remove if not available
